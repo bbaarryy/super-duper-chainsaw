@@ -1,0 +1,11 @@
+.img-fluid{
+    height:100%;
+    object-fit: cover;
+}
+main .card{
+    height:100%;
+}
+.list-group-item:hover{
+    outline:yellow 2px solid;
+    z-index:100;
+}
